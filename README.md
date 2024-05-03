@@ -45,4 +45,10 @@
 
 ###
 
+<a href="https://github.com/EthanGilles/nvim" align="center" target="_blank"> 
+  <h3 align="center"> Checkout my config! </h3> 
+</a>
 
+<a href="https://github.com/EthanGilles/nvim" align="center" target="_blank"> 
+  <img src="https://github.com/EthanGilles/EthanGilles/blob/c43222f2111e03962c79e926a9d9c8e5efd09e0a/nvim-pics/greeting.png">
+</a>
