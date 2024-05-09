@@ -50,5 +50,5 @@
 </a>
 
 <a href="https://github.com/EthanGilles/nvim" align="center" target="_blank"> 
-  <img src="https://github.com/EthanGilles/EthanGilles/blob/c43222f2111e03962c79e926a9d9c8e5efd09e0a/nvim-pics/greeting.png">
+  <img src="https://github.com/EthanGilles/EthanGilles/blob/4264a4359f7f30134432a4cf5545973f63911f40/nvim-pics/alpha.png">
 </a>
