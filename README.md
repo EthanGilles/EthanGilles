@@ -68,10 +68,6 @@
 
 ###
 
-<a href="https://github.com/EthanGilles/nvim" align="center" target="_blank"> 
-  <h3 align="center"> Checkout my config! </h3> 
-</a>
-
 <h4 align="center">Check out my config</h4>
 
 ###
