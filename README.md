@@ -70,7 +70,7 @@
 ###
 
 <a href="https://github.com/EthanGilles/nvim" align="center" target="_blank"> 
-  <img src="https://github.com/EthanGilles/EthanGilles/blob/4264a4359f7f30134432a4cf5545973f63911f40/nvim-pics/alpha.png">
+  <img src="https://github.com/EthanGilles/EthanGilles/blob/3d7cd33e7be5c56e64c5c0b90d9f798ce9e19e93/nvim-pics/alpha.png">
 </a>
 
 ###
