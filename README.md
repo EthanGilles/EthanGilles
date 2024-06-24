@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey! I'm Ethan. I'm a Computer Science Major from Maine. Currently I am interning as a System Administrator at a local healthcare facility. I also work for the chair of my Computer Science department, previously as a TA and currently as a Tech, helping create student resource documents for the department using LaTeX. <br><br>I use WSL-2 with Ubuntu and NeoVim for all of my personal development. My NeoVim configuration has a focus of using LaTeX but supports all of the work I need to do for my major.<br><br>At work I use VSCode to create projects using yaml and Ansible that automate updates that come in from the DevOps team. I am also apart of the team that is migrating all Group Policies from on-site AD to Azure AD.</p>
+<p align="left">Hey! I'm Ethan. I'm a Computer Science Major from Maine. Currently I am interning as a System Administrator at a local healthcare facility. I also work for the chair of my Computer Science department, previously as a TA and currently as a Tech, helping create student resource documents for the department using LaTeX. </p>
 
 ###
 
