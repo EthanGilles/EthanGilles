@@ -1,3 +1,11 @@
+<h1 align="center">About</h1>
+
+###
+
+<p align="left">Hey! I'm Ethan. I'm a Computer Science Major from Maine. Currently I am interning as a System Administrator at a local healthcare facility. I also work for the chair of my Computer Science department, previously as a TA and currently as a Tech, helping create student resource documents for the department using LaTeX. <br><br>I use WSL-2 with Ubuntu and NeoVim for all of my personal development. My NeoVim configuration has a focus of using LaTeX but supports all of the work I need to do for my major.<br><br>At work I use VSCode to create projects using yaml and Ansible that automate updates that come in from the DevOps team. I am also apart of the team that is migrating all Group Policies from on-site AD to Azure AD.</p>
+
+###
+
 <h1 align="center">Stats</h1>
 
 ###
@@ -43,9 +51,13 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" alt="vim logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="60" alt="ansible logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
 
 ###
