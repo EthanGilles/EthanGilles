@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Stats</h1>
+<h2 align="center">Stats</h2>
 
 ###
 
