@@ -76,7 +76,7 @@
 
 ###
 
-<h4 align="center">Check out my config</h4>
+<h3 align="center">Check out my config</h3>
 
 ###
 
