@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey! I'm Ethan. I'm a Computer Science Major from Maine. Currently I am interning as a System Administrator at a local healthcare facility. I also work for the chair of my Computer Science department, previously as a TA and currently as a Tech, helping create student resource documents for the department using LaTeX. </p>
+<p align="left">Hey! I'm Ethan. I'm a Computer Science student from Maine. I'm passionate about tech and security. Right now I'm interning as a System Administrator at a local healthcare facility. I also work for the chair of my Computer Science Department as a Tech, helping create student resource documents using LaTeX. </p>
 
 ###
 
