@@ -1,10 +1,3 @@
-<h1 align="center">About</h1>
-
-###
-
-<p align="left">Hey! I'm Ethan. I'm a Computer Science student in Maine. I love learning about all tech, but I tend to focus on operating systems and security. Right now I'm interning as a System Administrator at a local healthcare facility. I also work for the chair of my Computer Science Department as an intern, helping create student resource documents using LaTeX. </p>
-
-###
 
 <h2 align="center">Stats</h2>
 
@@ -12,7 +5,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EthanGilles&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=EthanGilles&locale=en&mode=weekly&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
