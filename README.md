@@ -31,42 +31,6 @@
 
 ###
 
-<h3 align="center">Tech</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" alt="windows8 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" alt="vim logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="60" alt="ansible logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-</div>
-
-###
-
-<h3 align="center">Socials</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ethan-gilles-20950b298/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="ehgilles01@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="50" alt="gmail logo"  />
-  </a>
-</div>
-
-###
 
 <h3 align="center">Check out my config</h3>
 
