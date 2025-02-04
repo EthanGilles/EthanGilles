@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm currently in my last semester of undergrad for CS @ USM. <br>Incoming grad student in Network Engineering @ CU Boulder</p>
+<p align="center">Currently in my last semester of undergrad for CS @ USM. <br>Incoming grad student in Network Engineering @ CU Boulder</p>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EthanGilles&hide_title=true&hide_rank=true&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&exclude_repo=sports-classification" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=EthanGilles&hide_title=true&hide_rank=true&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=jupyter%20notebook" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EthanGilles&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&custom_title=Stats" height="150" alt="languages graph"  />
 </div>
 
