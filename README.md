@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Currently in my last semester of undergrad for CS @ USM. <br>Incoming grad student in Network Engineering @ CU Boulder</p>
+<p align="center">Currently in my last semester of undergrad for CS @ USM <br>Incoming grad student in Network Engineering @ CU Boulder</p>
 
 ###
 
