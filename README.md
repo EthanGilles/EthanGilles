@@ -59,7 +59,7 @@
 
 ###
 
-<h3 align="center">Check out my config</h3>
+<h3 align="center">Check out my NeoVim config</h3>
 
 ###
 
