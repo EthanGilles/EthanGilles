@@ -60,6 +60,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
 </div>
+
 ###
 
 <h3 align="center">Check out my NeoVim config</h3>
