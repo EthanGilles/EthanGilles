@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">BSc in CompSci @ University of Southern Maine<br/>Master's in Network Engineering @ CU Boulder</p>
+<p align="center">i like playing with computers<br/>BSc in CompSci @ University of Southern Maine<br/>Master's in Network Engineering @ CU Boulder<br/>Associate Solutions Designer at VISA</p>
 
 ###
 
